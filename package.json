@@ -1,0 +1,18 @@
+{
+  "name": "palaceriggsync",
+  "version": "1.0.0",
+  "description": "Product sync for Palacerigg Sports Magento 2 site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kris Sinclair",
+  "license": "ISC",
+  "dependencies": {
+    "chassis-core": "^0.1.4",
+    "chassis-cron": "0.0.2",
+    "chassis-database": "0.0.1",
+    "chassis-webserver": "0.0.2",
+    "xml2js": "^0.4.22"
+  }
+}

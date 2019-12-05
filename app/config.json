@@ -1,0 +1,10 @@
+{
+  "db": {
+    "user": "*your username*",
+    "pass": "*your password*",
+    "authSource": "admin",
+    "host": "localhost",
+    "port": "27017",
+    "dbName": "fcRecords"
+  }
+}
